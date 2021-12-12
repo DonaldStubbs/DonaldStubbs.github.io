@@ -1,2 +1,2 @@
 ## Donald Stubbs CS 499
-## Edited
+## Jack of all trades.
