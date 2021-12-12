@@ -8,7 +8,7 @@ class AnimalShelter(object):
     def __init__(self,user,password):
         # Initializing the MongoClient. This helps to 
         # access the MongoDB databases and collections. 
-        self.client = MongoClient('mongodb://%s:%s@localhost:30746/AAC'%('DStubbsaac','duck'))
+        self.client = MongoClient('mongodb://%s:%s@localhost:30746/AAC'%('aacuser','aacuser'))
         self.database = self.client['AAC']
 
     # Complete this create method to implement the C in CRUD.
