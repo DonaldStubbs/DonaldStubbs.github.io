@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>X:/C# coursera class stuff/GameProject/GameProject/Content/audio/BurgerDamage.wav</File>
+    <File>X:/C# coursera class stuff/GameProject/GameProject/Content/audio/BurgerDeath.wav</File>
+    <File>X:/C# coursera class stuff/GameProject/GameProject/Content/audio/BurgerShot.wav</File>
+    <File>X:/C# coursera class stuff/GameProject/GameProject/Content/audio/Explosion.wav</File>
+    <File>X:/C# coursera class stuff/GameProject/GameProject/Content/audio/TeddyBounce.wav</File>
+    <File>X:/C# coursera class stuff/GameProject/GameProject/Content/audio/TeddyShot.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

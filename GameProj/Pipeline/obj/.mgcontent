@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/graphics/burger.png</File>
+    <File>C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/graphics/explosion.png</File>
+    <File>C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/graphics/frenchfries.png</File>
+    <File>C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/graphics/teddybear.png</File>
+    <File>C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/graphics/teddybearprojectile.png</File>
+    <File>C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/sounds/BurgerDamage.wav</File>
+    <File>C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/sounds/BurgerDeath.wav</File>
+    <File>C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/sounds/BurgerShot.wav</File>
+    <File>C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/sounds/Explosion.wav</File>
+    <File>C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/sounds/TeddyBounce.wav</File>
+    <File>C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/sounds/TeddyShot.wav</File>
+    <File>C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/spritefont/Arial.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

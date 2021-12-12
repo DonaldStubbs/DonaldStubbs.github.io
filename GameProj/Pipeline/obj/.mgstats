@@ -1,0 +1,13 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/graphics/burger.png","C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/bin/graphics/burger.xnb","TextureProcessor","Texture2DContent",358,2645,0.1153811
+"C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/graphics/explosion.png","C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/bin/graphics/explosion.xnb","TextureProcessor","Texture2DContent",14066,181561,0.0064949
+"C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/graphics/frenchfries.png","C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/bin/graphics/frenchfries.xnb","TextureProcessor","Texture2DContent",591,701,0.0014976
+"C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/graphics/teddybear.png","C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/bin/graphics/teddybear.xnb","TextureProcessor","Texture2DContent",3727,11861,0.0024972
+"C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/graphics/teddybearprojectile.png","C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/bin/graphics/teddybearprojectile.xnb","TextureProcessor","Texture2DContent",1634,3029,0.0014968
+"C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/sounds/BurgerDamage.wav","C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/bin/sounds/BurgerDamage.xnb","SoundEffectProcessor","SoundEffectContent",93756,93817,1.521943
+"C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/sounds/BurgerDeath.wav","C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/bin/sounds/BurgerDeath.xnb","SoundEffectProcessor","SoundEffectContent",252282,252343,1.487002
+"C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/sounds/BurgerShot.wav","C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/bin/sounds/BurgerShot.xnb","SoundEffectProcessor","SoundEffectContent",30522,25705,1.500966
+"C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/sounds/Explosion.wav","C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/bin/sounds/Explosion.xnb","SoundEffectProcessor","SoundEffectContent",176520,176505,1.040455
+"C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/sounds/TeddyBounce.wav","C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/bin/sounds/TeddyBounce.xnb","SoundEffectProcessor","SoundEffectContent",18572,18633,1.478986
+"C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/sounds/TeddyShot.wav","C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/bin/sounds/TeddyShot.xnb","SoundEffectProcessor","SoundEffectContent",137856,137917,1.500468
+"C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/spritefont/Arial.spritefont","C:/Users/DRSDESKTOP/source/repos/GameProj/Pipeline/bin/spritefont/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.268163

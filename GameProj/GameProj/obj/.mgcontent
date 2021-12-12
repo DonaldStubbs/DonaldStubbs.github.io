@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/DRSDESKTOP/source/repos/GameProj/GameProj/graphics/burger.png</File>
+    <File>C:/Users/DRSDESKTOP/source/repos/GameProj/GameProj/graphics/explosion.png</File>
+    <File>C:/Users/DRSDESKTOP/source/repos/GameProj/GameProj/graphics/frenchfries.png</File>
+    <File>C:/Users/DRSDESKTOP/source/repos/GameProj/GameProj/graphics/teddybear.png</File>
+    <File>C:/Users/DRSDESKTOP/source/repos/GameProj/GameProj/graphics/teddybearprojectile.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

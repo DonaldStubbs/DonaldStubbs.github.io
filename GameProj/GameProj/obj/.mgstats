@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/DRSDESKTOP/source/repos/GameProj/GameProj/graphics/burger.png","C:/Users/DRSDESKTOP/source/repos/GameProj/GameProj/bin/graphics/burger.xnb","TextureProcessor","Texture2DContent",358,2645,0.3496422
+"C:/Users/DRSDESKTOP/source/repos/GameProj/GameProj/graphics/explosion.png","C:/Users/DRSDESKTOP/source/repos/GameProj/GameProj/bin/graphics/explosion.xnb","TextureProcessor","Texture2DContent",14066,181561,0.0059942
+"C:/Users/DRSDESKTOP/source/repos/GameProj/GameProj/graphics/frenchfries.png","C:/Users/DRSDESKTOP/source/repos/GameProj/GameProj/bin/graphics/frenchfries.xnb","TextureProcessor","Texture2DContent",591,701,0.0014976
+"C:/Users/DRSDESKTOP/source/repos/GameProj/GameProj/graphics/teddybear.png","C:/Users/DRSDESKTOP/source/repos/GameProj/GameProj/bin/graphics/teddybear.xnb","TextureProcessor","Texture2DContent",3727,11861,0.001998
+"C:/Users/DRSDESKTOP/source/repos/GameProj/GameProj/graphics/teddybearprojectile.png","C:/Users/DRSDESKTOP/source/repos/GameProj/GameProj/bin/graphics/teddybearprojectile.xnb","TextureProcessor","Texture2DContent",1634,3029,0.0019982
