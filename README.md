@@ -7,5 +7,6 @@ Code for the Software Design and Engineering milestone as well as the Algorithms
 
 The written article explaining my enhancements and why I chose these artifacts:
 
-[Software Engineering and Design Milestone README](https://github.com/DonaldStubbs/DonaldStubbs.github.io/blob/main/GameProj/Software%20Engineering%20and%20Design%20Milestone%20README.md) [Algoritms and Data Structures Milestone README](https://github.com/DonaldStubbs/DonaldStubbs.github.io/blob/main/GameProj/Algorithms%20and%20Data%20Structures%20Milestone%20README.md)
+[Software Engineering and Design Milestone README](https://github.com/DonaldStubbs/DonaldStubbs.github.io/blob/main/GameProj/Software%20Engineering%20and%20Design%20Milestone%20README.md) 
+[Algoritms and Data Structures Milestone README](https://github.com/DonaldStubbs/DonaldStubbs.github.io/blob/main/GameProj/Algorithms%20and%20Data%20Structures%20Milestone%20README.md)
 
