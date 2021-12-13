@@ -21,6 +21,6 @@ The written article explaining my enhancements and why I chose this artifact:
 
 [Database Milestone README](https://github.com/DonaldStubbs/DonaldStubbs.github.io/blob/main/Animal%20Shelter%20Dashboard/Database%20Milestone%20README.md)
 
-### An honest Self-assessment of my abilities and problem solving prowess:
+### A Self-assessment of my abilities and problem solving prowess:
 
 [Self-Assessment](https://github.com/DonaldStubbs/DonaldStubbs.github.io/blob/main/Self-Assessment.md)
