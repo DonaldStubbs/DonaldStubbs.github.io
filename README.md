@@ -1,6 +1,8 @@
 # Donald Stubbs CS 499
 ### Hi I'm Donald Stubbs and within the pixels of these pages I show and explain how I have grown as a developer throughout my time at Southern New Hampshire University.
 
+
+
 [CLICK HERE](https://youtu.be/vXk73Aren4k) for a link to my Code Review on my initial project builds.
 
 Code both the Software Design and Engineering and Algorithms and Data Structures Milestones: 
