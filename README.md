@@ -3,7 +3,7 @@
 
 [CLICK HERE](https://youtu.be/vXk73Aren4k) for a link to my Code Review on my initial project builds.
 
-Code for the Software Design and Engineering milestone as well as the Algorithms and Data Structures Milestone: [GameProj](https://github.com/DonaldStubbs/DonaldStubbs.github.io/tree/main/GameProj)
+Code both the Software Design and Engineering and Algorithms and Data Structures Milestones: [GameProj](https://github.com/DonaldStubbs/DonaldStubbs.github.io/tree/main/GameProj)
 
 The written article explaining my enhancements and why I chose these artifacts:
 
